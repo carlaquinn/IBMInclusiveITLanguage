@@ -1,5 +1,5 @@
 # IBMInclusiveITLanguage
-IBM’s contribution to Open Source and other Industry efforts to make IT language more inclusive
+IBM’s contribution to open source and other industry efforts to make IT language more inclusive.
 
 ## **Table of Contents**
 
@@ -14,11 +14,11 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 
 
 <a name="out"></a>
-## **What IT Scope does this inititaive cover?**
+## **What IT scope does this initiative cover?**
 This initiative covers the following areas of IT: 
-Code used in Software and Hardware and associated documentation,manuals, support guides, 
-Digital content desrcibing IT products, including education. 
-HArdWare Labels.
+Code used in software and hardware and associated documentation,manuals, support guides, 
+digital content desrcibing IT products, including education. 
+Hardware Labels.
 
 <a name="out"></a>
 
